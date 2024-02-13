@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class OptionsManager : MonoBehaviour
 {
-    public bool muteAudio = false;
     private AudioManager audioManager;
+    
+    public bool muteAudio = false;
 
     // Start is called before the first frame update
     void Start()
     {
-        audioManager = GetComponent<AudioManager>();
+        audioManager = GameManager.Instance.AudioManager;
     }
 
     // Update is called once per frame
