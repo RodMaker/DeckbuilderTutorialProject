@@ -18,6 +18,8 @@ public class CardDisplay : MonoBehaviour
 
     public Image damageImage;
 
+    public Image displayImage;
+
     private Color[] cardColors = {
         new Color(0.44f, 0f, 0f), //Fire
         new Color(0.42f, 0.25f, 0.08f), //Earth
@@ -36,11 +38,6 @@ public class CardDisplay : MonoBehaviour
         Color.white //Air
     };
 
-    void Start()
-    {
-        UpdateCardDisplay();
-    }
-
     public void UpdateCardDisplay()
     {
         //Update the main card image color based on the first card type
@@ -51,6 +48,7 @@ public class CardDisplay : MonoBehaviour
         nameText.text = cardData.cardName;
         healthText.text = cardData.health.ToString();
         damageText.text = $"{cardData.damageMin} - {cardData.damageMax}";
+        displayImage.sprite = cardData.cardSprite;
 
         //Update type images
         for (int i = 0; i < typeImages.Length; i++)

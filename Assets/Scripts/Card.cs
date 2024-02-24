@@ -14,7 +14,10 @@ namespace SinuousProductions
         public int damageMax;
         public Sprite cardSprite;
         public List<DamageType> damageType;
-
+        public GameObject prefab;
+        public int range;
+        public AttackPattern attackPattern;
+        public PriorityTarget priorityTarget;
 
         public enum CardType
         {
@@ -34,6 +37,27 @@ namespace SinuousProductions
             Dark,
             Light,
             Air
+        }
+
+        public enum AttackPattern
+        {
+            Single,
+            Multitarget,
+            Cross,
+            Column,
+            Row,
+            TwoByTwo,
+            FourByFour
+        }
+
+        public enum PriorityTarget
+        {
+            Close,
+            Far,
+            LeastCurrentHealth,
+            MostCurrentHealth,
+            MostMaxHealth,
+            MostDamage
         }
     }
 }

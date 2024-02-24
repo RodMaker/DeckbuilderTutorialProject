@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7409308843332625262}
   - component: {fileID: 5231630292877525291}
   - component: {fileID: 880060460771607464}
+  - component: {fileID: 1328601425869609539}
   m_Layer: 0
   m_Name: GridCellPrefab
   m_TagString: Untagged
@@ -146,3 +147,16 @@ MonoBehaviour:
   gridIndex: {x: 0, y: 0}
   cellFull: 0
   objectInCell: {fileID: 0}
+--- !u!114 &1328601425869609539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418427651787889516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856a3fb89fe83c745aa8c5e17c23fa4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

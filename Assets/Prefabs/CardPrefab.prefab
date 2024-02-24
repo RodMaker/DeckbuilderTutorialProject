@@ -740,6 +740,7 @@ MonoBehaviour:
   - {fileID: 4609609256983941862}
   - {fileID: 959168118226664843}
   damageImage: {fileID: 5857633557108299581}
+  displayImage: {fileID: 9181566930836613351}
 --- !u!61 &1186766994926404513
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1000,7 +1001,7 @@ GameObject:
   - component: {fileID: 6978297223158499788}
   - component: {fileID: 9181566930836613351}
   m_Layer: 0
-  m_Name: Image
+  m_Name: DisplayImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
