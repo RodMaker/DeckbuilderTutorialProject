@@ -17,5 +17,9 @@ MonoBehaviour:
   health: 18
   damageMin: 6
   damageMax: 10
-  cardSprite: {fileID: 0}
+  cardSprite: {fileID: 21300000, guid: 2ca3c4752d50c0e478ccd3b49cac7e79, type: 3}
   damageType: 02000000
+  prefab: {fileID: 1571328342031654, guid: 1578dbbf01f3e2242923e22c1af2c7b6, type: 3}
+  range: 0
+  attackPattern: 0
+  priorityTarget: 0
