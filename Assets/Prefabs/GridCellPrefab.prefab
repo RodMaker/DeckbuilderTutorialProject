@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5231630292877525291}
   - component: {fileID: 880060460771607464}
   - component: {fileID: 3346333592719993076}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GridCellPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5603391849951346462}
   - component: {fileID: 1977160221894512039}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CellBackground (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6028829159555641534}
   - component: {fileID: 874906133447648624}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CellBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}

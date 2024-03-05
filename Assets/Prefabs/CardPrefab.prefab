@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 930506048314432525}
   - component: {fileID: 365661685769040060}
   - component: {fileID: 7674939343591778242}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: DamageNumber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7022868460866043880}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 3736165396590665745}
   - component: {fileID: 5466642332841032705}
   - component: {fileID: 326890676889159166}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CardHighlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,7 +255,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3935775907600365522}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Health
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 4576355746349193961}
   - component: {fileID: 6834180984598831709}
   - component: {fileID: 5857633557108299581}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: DamageImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -369,7 +369,7 @@ GameObject:
   - component: {fileID: 8433365284180057631}
   - component: {fileID: 8081334407318697820}
   - component: {fileID: 2072165115521573776}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: TypeImage2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 2918055353206461235}
   - component: {fileID: 7698418282520745890}
   - component: {fileID: 447543649569894573}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: TypeImage1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -518,7 +518,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5017701153549637377}
   - component: {fileID: 5766957348824764533}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: PlayArrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -575,7 +575,7 @@ GameObject:
   - component: {fileID: 2562624464454031128}
   - component: {fileID: 8615609361742053402}
   - component: {fileID: 806499188255473172}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: HealthImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -648,7 +648,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1883968848498365594}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Type
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -690,7 +690,7 @@ GameObject:
   - component: {fileID: 2477694193575775258}
   - component: {fileID: 1186766994926404513}
   - component: {fileID: 8785127510327541074}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CardPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -824,7 +824,7 @@ GameObject:
   - component: {fileID: 8535100100377750890}
   - component: {fileID: 6153721020619713009}
   - component: {fileID: 8706705935890226534}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1000,7 +1000,7 @@ GameObject:
   - component: {fileID: 3326008774069751125}
   - component: {fileID: 6978297223158499788}
   - component: {fileID: 9181566930836613351}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: DisplayImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1073,7 +1073,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5573764429972248933}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Traits
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1115,7 +1115,7 @@ GameObject:
   - component: {fileID: 1566254902082127756}
   - component: {fileID: 8857313856646986428}
   - component: {fileID: 4609609256983941862}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: TypeImage3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1190,7 +1190,7 @@ GameObject:
   - component: {fileID: 1393034652766730946}
   - component: {fileID: 3319273692218351286}
   - component: {fileID: 250649165707749585}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: HealthNumber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1324,7 +1324,7 @@ GameObject:
   - component: {fileID: 7703697848887280057}
   - component: {fileID: 2809922424375022034}
   - component: {fileID: 959168118226664843}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: TypeImage4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1400,7 +1400,7 @@ GameObject:
   - component: {fileID: 4767850819751712631}
   - component: {fileID: 5115471056404419122}
   - component: {fileID: 3711497648282057434}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CardCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1504,7 +1504,7 @@ GameObject:
   - component: {fileID: 6149755231786335191}
   - component: {fileID: 2539874932128617195}
   - component: {fileID: 2932954929539699706}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CardImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
